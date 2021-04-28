@@ -1,0 +1,16 @@
+{
+  "name": "tiktok-be",
+  "version": "1.0.0",
+  "description": "This is the backend of Tiktok clone ",
+  "main": "server.js",
+  "type":"module",
+  "author": "Samir Hysa",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  }
+}
